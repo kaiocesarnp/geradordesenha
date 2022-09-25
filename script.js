@@ -25,9 +25,10 @@ function generatePassword(){
     containerPassword.classList.remove("hide");
     password.innerHTML = pass;
     novaSenha = pass;
-}//O 'i' começa em 0 (let i = 0) e roda o 'for' até que o segundo 'i' seja menor que o 
-  //sliderElement.value, que é o tanto de caracteres que o usuário selecionou, por exemplo
-  // 7 caracteres. A variavel 'n' pega os caracteres do 'let = charset';
+    } 
+    // O 'i' começa em 0 (let i = 0) e roda o 'for' até que o segundo 'i' seja menor que o sliderElement.value, 
+    // que é o tanto de caracteres que o usuário selecionou, por exemplo 7 caracteres. A variavel 'n' pega os 
+    // caracteres do 'let = charset';
 
   function copyPassword(){
     alert("Senha copiada com sucesso!")
