@@ -15,7 +15,7 @@ slider.oninput = function(){
     sizePassword.innerHTML = this.value;
 }
 
-function generatePassword(){
+function generatePassword(){ 
    
     let pass = "";
     for(let i = 0, n = charset.length; i < sliderElement.value; ++i){
