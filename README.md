@@ -1,4 +1,5 @@
 Gerador de Senhas Aleatórias
+
 Acesso: https://kaiocesarnp.github.io/geradordesenha
 
 Senhas dos mais variados tipos, desde as simples até as mais fortes.
