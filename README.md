@@ -1,4 +1,4 @@
-Gerador de Senhas Aleatórias
+# Gerador de Senhas Aleatórias
 
 Acesso: https://kaiocesarnp.github.io/geradordesenha
 
